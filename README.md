@@ -1,0 +1,2 @@
+# Hate-Speech-Detection-Using-Decision-Tree-Classifier
+This project builds a machine learning model to classify tweets as hate speech, offensive language, or non-offensive. Using a Decision Tree Classifier, the model achieved 87% accuracy after text preprocessing and feature extraction. While effective, it could be improved, particularly in differentiating between hate speech and offensive language
